@@ -1,4 +1,4 @@
-## Juho Alasalmi
+
 
 Research economist at [PTT](http://www.ptt.fi/)
 
@@ -11,6 +11,7 @@ Psychological economics, primarily optimal belief formation and applications in 
 ### Publications
 
 **Työttömyyden laajat kustannukset yhteiskunnalle**
+
 With Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kekäläinen, Peetu Keskinen, Olli-Pekka Ruuskanen and Lauri Vuori
 *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja 16/2019* (2019)
 
@@ -19,6 +20,12 @@ With Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek�
 **Motivated Prospects of Upward Mobility** *Master's Thesis*
 
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) (2018)
+
+### Work in progress
+
+**Motivated Prospects of Upward Mobility**
+
+
 
 ### Curriculum Vitae
 
