@@ -1,3 +1,1 @@
-## Juho Alasalmi
-
-I am economist. 
+Personal website
