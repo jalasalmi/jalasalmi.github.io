@@ -1,29 +1,27 @@
 
+### Current Positions
 
-Research economist at [PTT](http://www.ptt.fi/)
+  * Research economist at [PTT](http://www.ptt.fi/)
 
-Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
+  * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
 
 ### Research interests
 
-Psychological economics, primarily optimal belief formation and applications in public and labour economics. 
+  * Psychological economics, primarily optimal belief formation and applications in public and labour economics. 
 
 ### Publications
 
-**Työttömyyden laajat kustannukset yhteiskunnalle**
-
-With Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kekäläinen, Peetu Keskinen, Olli-Pekka Ruuskanen and Lauri Vuori
+* **Työttömyyden laajat kustannukset yhteiskunnalle**
+with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kekäläinen, Peetu Keskinen, Olli-Pekka Ruuskanen and Lauri Vuori
 *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja 16/2019* (2019)
-
 [http://urn.fi/URN:ISBN:978-952-287-645-4](http://urn.fi/URN:ISBN:978-952-287-645-4)
 
-**Motivated Prospects of Upward Mobility** *Master's Thesis*
-
+  * **Motivated Prospects of Upward Mobility** *Master's Thesis*
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) (2018)
 
 ### Work in progress
 
-**Motivated Prospects of Upward Mobility**
+* **Motivated Prospects of Upward Mobility**
 
 
 
