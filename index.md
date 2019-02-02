@@ -2,6 +2,8 @@
 
 ---
 
+***
+
 ### Current Positions
 
   * Research economist at [PTT](http://www.ptt.fi/)
