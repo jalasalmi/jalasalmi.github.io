@@ -16,7 +16,7 @@ with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek√
 *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja 16/2019* (2019)
 [http://urn.fi/URN:ISBN:978-952-287-645-4](http://urn.fi/URN:ISBN:978-952-287-645-4)
 
-  * **Motivated Prospects of Upward Mobility** *Master's Thesis*
+* **Motivated Prospects of Upward Mobility** *Master's Thesis*
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) (2018)
 
 ### Work in progress
