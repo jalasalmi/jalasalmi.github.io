@@ -28,3 +28,9 @@ with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek√
 ### Curriculum Vitae
 
 [CV]
+
+### Contact
+
+[juho.alasalmi@ptt.fi](mailto: juho.alasalmi@ptt.fi)
+
+[juho.alasalmi@uni-konstanz.de](mailto: juho.alasalmi@uni-konstanz.de)
