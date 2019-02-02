@@ -20,6 +20,6 @@ With Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek√
 
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) (2018)
 
-### Curriculum Vitate
+### Curriculum Vitae
 
 [CV]
