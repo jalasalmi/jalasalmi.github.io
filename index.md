@@ -26,7 +26,7 @@ with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek√
 
 ### Curriculum Vitae
 
-[jalasalmi.github.io/cv_alasalmi/cv_juhoalasalmi.pdf](CV)
+[CV](jalasalmi.github.io/cv_alasalmi/cv_juhoalasalmi.pdf)
 
 ### Contact
 
