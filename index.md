@@ -24,12 +24,6 @@ with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek√
 * **Motivated Prospects of Upward Mobility** *Master's Thesis*
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) (2018)
 
-### Work in progress
-
-* **Motivated Prospects of Upward Mobility**
-
-
-
 ### Curriculum Vitae
 
 [CV]
