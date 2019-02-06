@@ -33,3 +33,7 @@ with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti KekÃ
 [juho.alasalmi@ptt.fi](mailto: juho.alasalmi@ptt.fi)
 
 [juho.alasalmi@uni-konstanz.de](mailto: juho.alasalmi@uni-konstanz.de)
+
+> *"Perhaps we should think of this as the wine-drinking problem, recognizing that once a good bottle of wine is opened, it must be consumed."*  
+>
+> -- <cite>Adda and Cooper (2003) Dynamic Economics</cite>
