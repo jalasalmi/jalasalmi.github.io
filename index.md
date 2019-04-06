@@ -6,7 +6,7 @@
 
 ### Current Positions
 
-  * Research economist at [PTT](http://www.ptt.fi/)
+  * Research economist at [Pellervo Economic Research](http://www.ptt.fi/)
 
   * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
 
@@ -16,12 +16,16 @@
 
 ### Publications
 
+* **Työvoimapoliittisten toimenpiteiden kustannusvaikuttavuus** 
+with Naufal Alimov *Työpoliittinen aikakauskirja (Finnish Labour Review)* 1/2019 vol. 62, 38-49 (2019).
+[http://urn.fi/URN:ISBN:978-952-327-418-1](http://urn.fi/URN:ISBN:978-952-327-418-1)
+
 * **Työttömyyden laajat kustannukset yhteiskunnalle**
 with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kekäläinen, Peetu Keskinen, Olli-Pekka Ruuskanen and Lauri Vuori
-*Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja 16/2019* (2019)
+*Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 16/2019 (2019).
 [http://urn.fi/URN:ISBN:978-952-287-645-4](http://urn.fi/URN:ISBN:978-952-287-645-4)
 
-* **Motivated Prospects of Upward Mobility** *Master's Thesis* (2018)
+* **Motivated Prospects of Upward Mobility** *Master's Thesis* (2018).
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) 
 
 ### Curriculum Vitae
