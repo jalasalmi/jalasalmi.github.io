@@ -16,6 +16,10 @@
 
 ### Publications
 
+* **Katsaus aktiivisen työvoimapolitiikan vaikuttavuuteen** 
+with Henna Busk, *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2019 vol. 62, 11-21 (2019).
+[http://urn.fi/URN:ISBN:978-952-327-446-2](http://urn.fi/URN:ISBN:978-952-327-446-2)
+
 * **Työvoimapoliittisten toimenpiteiden kustannusvaikuttavuus** 
 with Naufal Alimov, *Työpoliittinen aikakauskirja (Finnish Labour Review)* 1/2019 vol. 62, 38-49 (2019).
 [http://urn.fi/URN:ISBN:978-952-327-418-1](http://urn.fi/URN:ISBN:978-952-327-418-1)
