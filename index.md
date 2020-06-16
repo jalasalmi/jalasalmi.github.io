@@ -16,6 +16,20 @@
 
 ### Publications
 
+* **Alueiden välinen työssäkäynti ja työperäinen monipaikkainen asuminen Suomessa**
+with Ossi Kotavaara, Olli Lehtonen, Janne Huovari, Niina Kotavaara. *Alue ja ympäristö* vol 49 nro 1 69-86 (2020). [https://aluejaymparisto.journal.ﬁ/article/view/85160/54065](https://aluejaymparisto.journal.ﬁ/article/view/85160/54065)
+
+* **Työttömyysturvajärjestelmä**
+with Henna Busk. Raportissa Työpolitiikka ja työllisyysaste: tutkimukseen perustuvia johtopäätöksiä. *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 33/2020 (2020). [http://urn.ﬁ/URN:ISBN:978-952-287951-6](http://urn.ﬁ/URN:ISBN:978-952-287951-6)
+
+* **Osaamisen kehittämiseen tähtäävät työvoimapalvelut vaikuttavat tehokkaimmin työllistymiseen**
+with Henna Busk. Teoksessa Työttömien näkökulmia elinikäiseen oppimiseen. Sinimaaria Ranki (toim.) (2020).
+[https://www.sitra.ﬁ/julkaisut/tyottomien-nakokulma-elinikaiseen-oppimiseen/](https://www.sitra.ﬁ/julkaisut/tyottomien-nakokulma-elinikaiseen-oppimiseen/)
+
+* **Työn ja työvoiman alueellinen liikkuvuus ja monipaikkainen väestö**
+with Henna Busk, Veera Holappa, Janne Huovari, Valtteri Härmälä, Ossi Kotavaara, Olli Lehtonen, Toivo Muilu, Hilkka Vihinen, Jarmo Rusanen. *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 12/2020 (2020).
+[http://urn.ﬁ/URN:ISBN:978-952-287-928-8](http://urn.ﬁ/URN:ISBN:978-952-287-928-8)
+
 * **Katsaus aktiivisen työvoimapolitiikan vaikuttavuuteen** 
 with Henna Busk, *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2019 vol. 62, 11-21 (2019).
 [http://urn.fi/URN:ISBN:978-952-327-446-2](http://urn.fi/URN:ISBN:978-952-327-446-2)
