@@ -20,7 +20,7 @@
 with Ossi Kotavaara, Olli Lehtonen, Janne Huovari, Niina Kotavaara. *Alue ja ympäristö* vol 49 nro 1 69-86 (2020). [https://aluejaymparisto.journal.ﬁ/article/view/85160/54065](https://aluejaymparisto.journal.ﬁ/article/view/85160/54065)
 
 * **Työttömyysturvajärjestelmä**
-with Henna Busk. Raportissa Työpolitiikka ja työllisyysaste: tutkimukseen perustuvia johtopäätöksiä. *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 33/2020 (2020). [http://urn.ﬁ/URN:ISBN:978-952-287951-6](http://urn.ﬁ/URN:ISBN:978-952-287951-6)
+with Henna Busk. Raportissa Työpolitiikka ja työllisyysaste: tutkimukseen perustuvia johtopäätöksiä. *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 33/2020 (2020). [http://urn.fi/URN:ISBN:978-952-287-951-6](http://urn.fi/URN:ISBN:978-952-287-951-6)
 
 * **Osaamisen kehittämiseen tähtäävät työvoimapalvelut vaikuttavat tehokkaimmin työllistymiseen**
 with Henna Busk. Teoksessa Työttömien näkökulmia elinikäiseen oppimiseen. Sinimaaria Ranki (toim.) (2020).
