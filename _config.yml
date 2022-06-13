@@ -2,7 +2,7 @@ theme: jekyll-theme-minimal
 title: Juho Alasalmi
 github:
   is_project_page: false
-logo: jalasalmi.github.io/images/IMG_20170827_160043.jpg
+logo: /images/juhokuva.jpg
 plugins:
    - jekyll-seo-tag
 
