@@ -6,7 +6,7 @@
 
 
 
-I'll be optimizing the stopping rule in practice on the Europoean academic job market in 2022/2023
+I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023
 
 ### Current Positions
 
