@@ -22,6 +22,9 @@ I propose a model of voting for redistributive policy under uncertainty about fu
 
 ### Publications
 
+* **Aktiivisen työvoimapolitiikan palveluiden kustannusvaikuttavuus**
+with Henna Buck, Veera Holappa, Olli Oosi and Antti Raukola. *Eduskunnan tarkastusvaliokunnan julkaisu 2/2022* (2022). [https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TrVJ_2_2022_tyovoimapolitiikan_palvelut.pdf](https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TrVJ_2_2022_tyovoimapolitiikan_palvelut.pdf)
+
 * **Ammatillisen työoimakoulutuksen toimivuuden ja vaikutusten arviointi**
 with Henna Busk, Veera Holappa, Hannu Karhunen, Minna Mayer, Annika Nivala, Tuomo Suhonen, Mikko Valtakari. *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2022:35 (2022). [http://urn.fi/URN:ISBN:978-952-383-008-0](http://urn.fi/URN:ISBN:978-952-383-008-0)
 
