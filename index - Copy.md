@@ -15,8 +15,6 @@
   * Theoretical psychological economics, optimal belief formation and applications in public and labour economics. 
   * Empirical labour economics, active labour market policy evaluation and labour mobility.
 
-[Publications](publications.md)
-
 ### Publications
 
 * **Ammatillisen työoimakoulutuksen toimivuuden ja vaikutusten arviointi**
