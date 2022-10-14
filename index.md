@@ -72,7 +72,7 @@ I propose a model of voting for redistributive policy under uncertainty about fu
 
 ### Curriculum Vitae
 
-[CV](jalasalmi.github.io/cv_alasalmi/cv_juhoalasalmi.pdf)
+[CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
 
 ### Contact
 
