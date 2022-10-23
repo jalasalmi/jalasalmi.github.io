@@ -19,7 +19,7 @@ I'll be optimizing the stopping rule in practice on the European academic job ma
   * Theoretical psychological economics, optimal belief management with applications in public and labour economics. 
   * Empirical labour economics, active labour market policy evaluation and labour mobility.
 
-### [Teaching](research.md)
+### [Teaching](teaching.md)
   * Mathematics, microeconomic theory, game theory
 
 
