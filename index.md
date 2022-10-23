@@ -22,6 +22,9 @@ I'll be optimizing the stopping rule in practice on the European academic job ma
 ### [Teaching](teaching.md)
   * Mathematics, microeconomic theory, game theory
 
+### [Software](https://github.com/jalasalmi)
+  * I develop tools for efficient use of Statistics Finland data
+
 
 
 [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
