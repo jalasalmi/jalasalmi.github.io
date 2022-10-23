@@ -14,12 +14,14 @@ I'll be optimizing the stopping rule in practice on the European academic job ma
 
   * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
 
-### Research
+### [Research](research.md)
 
   * Theoretical psychological economics, optimal belief management with applications in public and labour economics. 
   * Empirical labour economics, active labour market policy evaluation and labour mobility.
 
-[My research](research.md)
+### [Teaching](research.md)
+  * Mathematics, microeconomic theory, game theory
+
 
 
 [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
