@@ -11,7 +11,6 @@ I'll be optimizing the stopping rule in practice on the European academic job ma
 ### Current Positions
 
   * Research economist at [Pellervo Economic Research](http://www.ptt.fi/)
-
   * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
 
 ### [Research](research.md)
@@ -21,6 +20,9 @@ I'll be optimizing the stopping rule in practice on the European academic job ma
 
 ### [Teaching](teaching.md)
   * Mathematics, microeconomic theory, game theory
+
+### [Software](https://github.com/jalasalmi)
+  * I develop tools for efficient use of Statistics Finland data
 
 
 
