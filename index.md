@@ -4,14 +4,14 @@
 
 ***
 
-[Research](research.md)  [Teaching](teaching.md)  [Software](https://github.com/jalasalmi)  [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
+## [Research](research.md) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Software](https://github.com/jalasalmi) &nbsp; &nbsp; &nbsp; [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
 
 I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023
 
 ### Current Positions
 
-  * Research economist at [Pellervo Economic Research](http://www.ptt.fi/)
   * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
+  * Research economist at [Pellervo Economic Research](http://www.ptt.fi/)
 
 ### [Research](research.md)
 
