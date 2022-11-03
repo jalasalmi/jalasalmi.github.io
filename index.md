@@ -4,7 +4,7 @@
 
 ***
 
-
+[Research](research.md)  [Teaching](teaching.md)  [Software](https://github.com/jalasalmi)  [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
 
 I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023
 
