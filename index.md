@@ -6,6 +6,8 @@
 
 ### [Welcome](index.md) &nbsp; &nbsp; &nbsp; [Research](research.md) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Software](software.md) &nbsp; &nbsp; &nbsp; [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
 
+***
+
 I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023
 
 ### Current Positions
