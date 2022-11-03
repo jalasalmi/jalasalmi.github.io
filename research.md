@@ -3,6 +3,9 @@
 ---
 
 ***
+
+### [Welcome](index.md) &nbsp; &nbsp; &nbsp; [Research](research.md) &nbsp; &nbsp; &nbsp; [Teaching](teaching.md) &nbsp; &nbsp; &nbsp; [Software](software.md) &nbsp; &nbsp; &nbsp; [CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
+
 ### Work in Progress
 
 * **Self-Signaling and Voting for Redistribution**
@@ -24,7 +27,7 @@ We study the effects of public-sponsored vocational labour market training on pa
 Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suomessa vuodesta 2006 alkaen. Muodostan kohtaanto-ongelman suuruutta mittaavan indeksin \cite{csahin2014mismatch}, joka kuvaa kuinka epätasapainoisesti työttömät työnhakijat ja avoimet työpaikat ovat sijoittuneet eri alueille ja eri ammatteihin verrattuna tilanteeseen, jossa alueellinen tai ammatillinen liikkuvuus eivät olisi rajoitteita. Arvioin sekä alueellisen että ammatillisen kohtaanto-ongelman trendinomaisesti pienentyneen 2000-luvun aikana. Kokonaisuudessaan työmarkkinoiden kohtaanto on Beveridge-käyrällä mitattuna kuitenkin heikentynyt. Koska epätasapaino työttömien työnhakijoiden ja avoimien työpaikkojen alueellisessa ja ammatillisessa jakaumassa on pienentynyt kohtaannon heikentyminen tuskin johtuu alueellisen tai ammatillisen liikkuvuuden kehityksestä tai rajoitteista. [Working paper here](https://raw.githubusercontent.com/pttry/kohtaantoindeksit/main/text/kohtaantoindeksit.pdf)
 
 
-### Publications
+### Publications in Finnish
 
 * **Ammatillisen työvoimakoulutuksen vaikuttavuus 2005-2017**
 with Henna Buck and Veera Holappa. *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2022 vol. 63, 24-36.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0)
@@ -64,6 +67,8 @@ with Naufal Alimov, *Työpoliittinen aikakauskirja (Finnish Labour Review)* 1/20
 with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kekäläinen, Peetu Keskinen, Olli-Pekka Ruuskanen and Lauri Vuori,
 *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 16/2019 (2019).
 [http://urn.fi/URN:ISBN:978-952-287-645-4](http://urn.fi/URN:ISBN:978-952-287-645-4)
+
+### Master's Thesis
 
 * **Motivated Prospects of Upward Mobility** *Master's Thesis* (2018).
 [http://urn.fi/URN:NBN:fi:uta-201807022210](http://urn.fi/URN:NBN:fi:uta-201807022210) 
