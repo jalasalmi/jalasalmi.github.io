@@ -17,16 +17,14 @@ I'll be optimizing the stopping rule in practice on the European academic job ma
 
 ### [Research](research.md)
 
-  * Theoretical psychological economics, optimal belief management with applications in public and labour economics. 
-  * Empirical labour economics, active labour market policy evaluation and labour mobility.
+  * Theoretical psychological economics, optimal belief and self-esteem management with applications in public and labour economics. 
+  * Theoretical and empirical labour economics, active labour market policy evaluation and spatial labour mobility.
 
 ### [Teaching](teaching.md)
   * Mathematics, microeconomic theory, game theory
 
 ### [Software](https://github.com/jalasalmi)
   * I develop tools for efficient use of Statistics Finland data
-
-[CV](/cv_alasalmi/cv_juhoalasalmi.pdf)
 
 ### Contact
 
