@@ -8,7 +8,9 @@
 
 ***
 
-I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023
+I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023.
+
+[Job market paper](/papers/signaling_mobility_prospects.pdf)
 
 ### Current Positions
 
