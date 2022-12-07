@@ -31,9 +31,13 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 ### Publications in Finnish
 
+* **Selittävätkö alueellinen ja ammatillinen kohtaanto työmarkkinoiden kohtaannon heikkentymistä?**
+(Do regional and occupational mismatch explain the rise in labor market mismatch?)
+*Työpoliittinen aikakauskirja (Finnish Labour Review)* 4/2022 vol. 65, 20-28.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-970-4](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-970-4)
+
 * **Ammatillisen työvoimakoulutuksen vaikuttavuus 2005-2017**
 (Effectiveness of Vocational Labour Market Training in 2005–2017)
-with Henna Buck and Veera Holappa. *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2022 vol. 63, 24-36.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0)
+with Henna Buck and Veera Holappa. *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2022 vol. 65, 24-36.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0)
 
 * **Aktiivisen työvoimapolitiikan palveluiden kustannusvaikuttavuus**
 (The Cost-effectiveness of Active Labour Market Policies) 
