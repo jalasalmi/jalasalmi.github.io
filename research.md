@@ -29,7 +29,7 @@ We study the effects of public-sponsored vocational labour market training on pa
 Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suomessa vuodesta 2006 alkaen. Muodostan kohtaanto-ongelman suuruutta mittaavan indeksin \cite{csahin2014mismatch}, joka kuvaa kuinka epätasapainoisesti työttömät työnhakijat ja avoimet työpaikat ovat sijoittuneet eri alueille ja eri ammatteihin verrattuna tilanteeseen, jossa alueellinen tai ammatillinen liikkuvuus eivät olisi rajoitteita. Arvioin sekä alueellisen että ammatillisen kohtaanto-ongelman trendinomaisesti pienentyneen 2000-luvun aikana. Kokonaisuudessaan työmarkkinoiden kohtaanto on Beveridge-käyrällä mitattuna kuitenkin heikentynyt. Koska epätasapaino työttömien työnhakijoiden ja avoimien työpaikkojen alueellisessa ja ammatillisessa jakaumassa on pienentynyt kohtaannon heikentyminen tuskin johtuu alueellisen tai ammatillisen liikkuvuuden kehityksestä tai rajoitteista. [Working paper here](https://raw.githubusercontent.com/pttry/kohtaantoindeksit/main/text/kohtaantoindeksit.pdf)
 
 
-### Publications in Finnish
+### Policy Work and Publications in Finnish
 
 * **Selittävätkö alueellinen ja ammatillinen kohtaanto työmarkkinoiden kohtaannon heikkentymistä?**
 (Do regional and occupational mismatch explain the rise in labor market mismatch?)
