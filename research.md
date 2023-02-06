@@ -37,11 +37,11 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 * **Ammatillisen työvoimakoulutuksen vaikuttavuus 2005-2017**
 (Effectiveness of Vocational Labour Market Training in 2005–2017)
-with Henna Buck and Veera Holappa. *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2022 vol. 65, 24-36.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0)
+with Henna Busk and Veera Holappa. *Työpoliittinen aikakauskirja (Finnish Labour Review)* 3/2022 vol. 65, 24-36.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-910-0)
 
 * **Aktiivisen työvoimapolitiikan palveluiden kustannusvaikuttavuus**
 (The Cost-effectiveness of Active Labour Market Policies) 
-with Henna Buck, Veera Holappa, Olli Oosi and Antti Raukola. *Eduskunnan tarkastusvaliokunnan julkaisu 2/2022* (2022). [https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TrVJ_2_2022_tyovoimapolitiikan_palvelut.pdf](https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TrVJ_2_2022_tyovoimapolitiikan_palvelut.pdf)
+with Henna Busk, Veera Holappa, Olli Oosi and Antti Raukola. *Eduskunnan tarkastusvaliokunnan julkaisu 2/2022* (2022). [https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TrVJ_2_2022_tyovoimapolitiikan_palvelut.pdf](https://www.eduskunta.fi/FI/naineduskuntatoimii/julkaisut/Documents/TrVJ_2_2022_tyovoimapolitiikan_palvelut.pdf)
 
 * **Ammatillisen työoimakoulutuksen toimivuuden ja vaikutusten arviointi**
 (Evaluation of Vocational Labour Market Training)
