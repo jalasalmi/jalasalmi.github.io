@@ -8,10 +8,6 @@
 
 ***
 
-I'll be optimizing the stopping rule in practice on the European academic job market in 2022/2023.
-
-[Job market paper](/papers/signaling_mobility_prospects.pdf)
-
 ### Current Positions
 
   * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
