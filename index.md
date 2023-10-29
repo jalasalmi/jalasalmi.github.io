@@ -10,7 +10,6 @@
 
 ### Current Positions
 
-  * Teaching and research assistant and doctoral candidate at [University of Konstanz](https://www.wiwi.uni-konstanz.de/goldluecke/team/academic-staff/doctoral-students/)
   * Research economist at [Pellervo Economic Research](http://www.ptt.fi/)
 
 ### [Research](research.md)
@@ -27,8 +26,6 @@
 ### Contact
 
 [juho.alasalmi@ptt.fi](mailto: juho.alasalmi@ptt.fi)
-
-[juho.alasalmi@uni-konstanz.de](mailto: juho.alasalmi@uni-konstanz.de)
 
 ***
 
