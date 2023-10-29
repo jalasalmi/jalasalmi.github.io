@@ -85,6 +85,12 @@ with Laura Ansala, Naufal Alimov, Henna Busk, Ville-Valtteri Huhtala, Antti Kek√
 *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 16/2019 (2019).
 [http://urn.fi/URN:ISBN:978-952-287-645-4](http://urn.fi/URN:ISBN:978-952-287-645-4)
 
+### Doctoral Thesis
+
+* **Three Essays in Microeconomics** *Doctoral Thesis* (2023).
+[http://nbn-resolving.de/urn:nbn:de:bsz:352-2-5bqsy0ddbm991](http://nbn-resolving.de/urn:nbn:de:bsz:352-2-5bqsy0ddbm991) 
+
+
 ### Master's Thesis
 
 * **Motivated Prospects of Upward Mobility** *Master's Thesis* (2018).
