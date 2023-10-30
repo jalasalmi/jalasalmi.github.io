@@ -31,6 +31,9 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 ### Policy Work and Publications in Finnish
 
+* **Kotoutumiskoulutukseen osallistuneiden ohjautuminen, palvelupolut ja työllistyminen**
+with Henna Busk and Veera Holappa. *Työ- ja elinkeinoministeriön julkaisuja* 2023:31 (2023). [http://urn.fi/URN:ISBN:978-952-327-878-3](http://urn.fi/URN:ISBN:978-952-327-878-3)
+
 * **Selittävätkö alueellinen ja ammatillinen kohtaanto työmarkkinoiden kohtaannon heikkentymistä?**
 (Do regional and occupational mismatch explain the rise in labor market mismatch?)
 *Työpoliittinen aikakauskirja (Finnish Labour Review)* 4/2022 vol. 65, 20-28.  (2022). [https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-970-4](https://tem.fi/julkaisu?pubid=URN:ISBN:978-952-327-970-4)
