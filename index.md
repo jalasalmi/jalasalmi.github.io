@@ -27,6 +27,7 @@
 ### Contact
 
 [juho.alasalmi@ptt.fi](mailto: juho.alasalmi@ptt.fi)
+
 [juho.alasalmi@vatt.fi](mailto: juho.alasalmi@vatt.fi)
 
 ***
