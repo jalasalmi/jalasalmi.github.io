@@ -10,7 +10,7 @@
 
 ### Current Positions
 
-  * Research economist at [Pellervo Economic Research (PTT)](https://www.ptt.fi/en/)
+  * Research economist at [Pellervo Economic Research](https://www.ptt.fi/en/)
   * Senior researcher at [VATT Institute for Economic Research](https://vatt.fi/en/frontpage)
 
 ### [Research](research.md)
