@@ -10,7 +10,8 @@
 
 ### Current Positions
 
-  * Research economist at [Pellervo Economic Research](http://www.ptt.fi/)
+  * Research economist at [Pellervo Economic Research (PTT)](https://www.ptt.fi/en/)
+  * Senior researcher at [VATT Institute for Economic Research](https://vatt.fi/en/frontpage)
 
 ### [Research](research.md)
 
@@ -26,6 +27,7 @@
 ### Contact
 
 [juho.alasalmi@ptt.fi](mailto: juho.alasalmi@ptt.fi)
+[juho.alasalmi@vatt.fi](mailto: juho.alasalmi@vatt.fi)
 
 ***
 
