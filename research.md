@@ -31,6 +31,12 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 ### Policy Work and Publications in Finnish
 
+* **Lomautusjärjestelmän toimivuus ja mahdolliset kehityskohteet**
+with Henna Busk, Godenhielm Mats, Nea Leinonen, Minna Mayer, Eero Mäkynen, Niku Määttänen, Olli Oosi, Oskari Vähämaa.  *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:28 (2024). [http://urn.fi/URN:ISBN:978-952-383-277-0](http://urn.fi/URN:ISBN:978-952-383-277-0)
+
+* **Työttömyysetuudella tuettu omaehtoinen opiskelu työllistymisen ja jatkuvan oppimisen väylänä**
+ with Taru Aihinen, Henna Busk, Veera Holappa, Tiina Koivula, Olli Oosi, Jenna Siltala, Saara Vaahtoniemi.   *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:10 (2024).  [http://urn.fi/URN:ISBN:978-952-383-289-3](http://urn.fi/URN:ISBN:978-952-383-289-3)
+
 * **Kotoutumiskoulutukseen osallistuneiden ohjautuminen, palvelupolut ja työllistyminen**
 with Henna Busk and Veera Holappa. *Työ- ja elinkeinoministeriön julkaisuja* 2023:31 (2023). [http://urn.fi/URN:ISBN:978-952-327-878-3](http://urn.fi/URN:ISBN:978-952-327-878-3)
 
