@@ -31,12 +31,15 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 ### Policy Work and Publications in Finnish
 
-* **Lomautusjärjestelmän toimivuus ja mahdolliset kehityskohteet**
-with Henna Busk, Godenhielm Mats, Nea Leinonen, Minna Mayer, Eero Mäkynen, Niku Määttänen, Olli Oosi, Oskari Vähämaa.  *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:28 (2024). [http://urn.fi/URN:ISBN:978-952-383-277-0](http://urn.fi/URN:ISBN:978-952-383-277-0)
+* **Työperusteisesti Suomessa oleskelevien työttömyysjaksojen pituudet **
+*Datahuone- raportti* 2/2024(2024) Valtion taloudellinen tutkimuslaitos.[https://urn.fi/URN:NBN:fi-fe2024082967170](https://urn.fi/URN:NBN:fi-fe2024082967170)
 
 * **Työttömyysetuudella tuettu omaehtoinen opiskelu työllistymisen ja jatkuvan oppimisen väylänä**
  with Taru Aihinen, Henna Busk, Veera Holappa, Tiina Koivula, Olli Oosi, Jenna Siltala, Saara Vaahtoniemi.   *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:10 (2024).  [http://urn.fi/URN:ISBN:978-952-383-289-3](http://urn.fi/URN:ISBN:978-952-383-289-3)
-
+ 
+* **Alueellisen kuljetustuen toimivuus, vaikuttavuus ja kehitystarpeet**
+ with Henna Busk, Sinikukka Pyykkönen, Antti Norkio, Nella Koivula .   *Työ- ja elinkeinoministeriön julkaisuja* 2024:20 (2024).  [http://urn.fi/URN:ISBN:978-952-327-945-2](http://urn.fi/URN:ISBN:978-952-327-945-2) 
+ 
 * **Kotoutumiskoulutukseen osallistuneiden ohjautuminen, palvelupolut ja työllistyminen**
 with Henna Busk and Veera Holappa. *Työ- ja elinkeinoministeriön julkaisuja* 2023:31 (2023). [http://urn.fi/URN:ISBN:978-952-327-878-3](http://urn.fi/URN:ISBN:978-952-327-878-3)
 
