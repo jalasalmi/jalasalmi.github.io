@@ -17,7 +17,7 @@ There seems to be more to voting than policy. Nevertheless, models of voting ten
 Many migrants migrate after having found a job in the destination. Relocation choices are then not based on source and destination location wage distributions but on specific realizations from these distributions. I extend the Roy-Borjas migrant selection model with job search, wage dispersion and observability of source and destination wage realizations prior to relocation choice. This model of selection of job-to-job migrants, while nesting the benchmark results on selection on skills, predicts negative selection on source and positive selection on destination job match quality. Using high quality administrative data, I compare selection on residual wages between job-toj-ob migrants and workers who similarly contract a job outside their location of residence but choose to commute. Mobility costs amplify selection, and comparing job-to-job migrants and commuters, two groups similar in their unobservable skills facing different costs of mobility, identifies migrants' residual selection (in)consistent with selection on job match quality (unobservable skills) predicted by the theory. [Working paper here](/papers/selection_on_job_match_quality.pdf)
 
 **Hidden Overtime: Optimal Contracts with (Self-)Deceptive Effort Reports** (with Susanne Goldlücke and Michelle Jordan)
-Requiring extra hours to get a job done signals low skills. With unobservable effort (hours of work), image concerned agents may prefer to underreport effort to hide low skills from the principal or themselves. We show how such "hidden overtime" can arise as a consequence of the optimal contract if the principal asks for reports but has no way to ensure that these reports are also correct. The effects of different monitoring systems and regulatory regimes are evaluated. [Working paper here](/papers/hidden_overtime.pdf)
+Requiring extra hours to get a job done signals low skills. With unobservable effort (hours of work), image concerned agents may prefer to underreport effort to hide low skills from the principal or themselves. We show how such "hidden overtime" can arise as a consequence of the optimal contract if the principal asks for reports but has no way to ensure that these reports are also correct. The effects of different monitoring systems and regulatory regimes are evaluated. [Working paper here](/papers/hidden_overtime.pdf)  R&R Journal of Economics and Management Strategy
 
 **Motivated Prospects of Upward Mobility** (single authored)
 The prospect of upward mobility (POUM) hypothesis conjectures that the reason why the poor do not expropriate the rich and sometimes seem to vote against their self-interest is that they expect upward mobility and fear that high redistribution may negatively affect them in the future. This work formalizes the POUM hypothesis by explicitly modeling the voters' beliefs about their prospective incomes. Anticipation of future consumption creates an incentive for optimism and the poor will form overly optimistic beliefs and vote for low taxes if they value anticipation enough and if their optimism does not cause too drastic a change in tax policy. When beliefs are not conditioned on voting, the poor will always indulge in optimism and may even vote against their best interest. Furthermore, if the incomes of the rich increase as the incomes of the poor stagnate, the poor may demand less redistribution. [Working paper here](/papers/mpoum.pdf)
@@ -31,11 +31,41 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 ### Policy Work and Publications in Finnish
 
+* **Opintotuen tulorajojen vuosien 2022 ja 2023 korotusten arviointi **
+with Olavi Kylliäinen and Juha Tuomala   *Datahuone- raportti* 4/2025 (2025).
+[https://urn.fi/URN:NBN:fi-fe2025100199082](https://urn.fi/URN:NBN:fi-fe2025100199082)
+
+* **Tilapäistä suojelua saavien työssäkäynti **
+with Meeri Seppä and Heikki Korpela  *Datahuone- raportti* 3/2025 (2025).
+[https://urn.fi/URN:NBN:fi-fe2025092998777](https://urn.fi/URN:NBN:fi-fe2025092998777)
+
+* **Opiskeluperusteisen maahanmuuton viimeaikainen kehitys **
+with Max Toikka, Heikki Korpela and Meeri Seppä  *Datahuone- raportti* 2/2025 (2025).
+[https://urn.fi/URN:NBN:fi-fe2025091796639](https://urn.fi/URN:NBN:fi-fe2025091796639)
+
+
+* **Maahanmuuttajien merkitys yritys- ja elinkeinotoiminnassa **
+with Henna Busk *PTT-raportteja* 296 (2025) Pellervon taloustutkimus.
+[https://www.ptt.fi/julkaisut/maahanmuuttajien-merkitys-yritys-ja-elinkeinotoiminnassa/](https://www.ptt.fi/julkaisut/maahanmuuttajien-merkitys-yritys-ja-elinkeinotoiminnassa/)
+
+
+* **Suomessa syntyneet ulkomaalaistaustaiset nuoret koulutuksessa ja työmarkkinoilla **
+with Henna Busk *Työ- ja elinkeinoministeriön julkaisuja* 2025:13 (2025).
+[https://urn.fi/URN:ISBN:978-952-327-535-5](https://urn.fi/URN:ISBN:978-952-327-535-5)
+
+
+* **Itäisen ja pohjoisen Suomen aluetaloudellinen kehitys **
+with Max Toikka ja Annakaisa Ritala   *Datahuone- raportti* 4/2024 (2024).
+[https://urn.fi/URN:NBN:fi-fe20241216103339](https://urn.fi/URN:NBN:fi-fe20241216103339)
+
 * **Työperusteisesti Suomessa oleskelevien työttömyysjaksojen pituudet **
 *Datahuone- raportti* 2/2024(2024) Valtion taloudellinen tutkimuslaitos.[https://urn.fi/URN:NBN:fi-fe2024082967170](https://urn.fi/URN:NBN:fi-fe2024082967170)
 
+* **Lomautusjärjestelmän toimivuus ja mahdolliset kehityskohteet**
+ with Henna Busk, Mats Godenhielm, Nea Leinonen, Minna Mayer, Eero Mäkynen, Niku Määttänen, Olli Oosi, Oskari Vähämaa.   *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:28 (2024).  [http://urn.fi/URN:ISBN:978-952-383-289-3](http://urn.fi/URN:ISBN:978-952-383-289-3)
+
 * **Työttömyysetuudella tuettu omaehtoinen opiskelu työllistymisen ja jatkuvan oppimisen väylänä**
- with Taru Aihinen, Henna Busk, Veera Holappa, Tiina Koivula, Olli Oosi, Jenna Siltala, Saara Vaahtoniemi.   *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:10 (2024).  [http://urn.fi/URN:ISBN:978-952-383-289-3](http://urn.fi/URN:ISBN:978-952-383-289-3)
+ with Taru Aihinen, Henna Busk, Veera Holappa, Tiina Koivula, Olli Oosi, Jenna Siltala, Saara Vaahtoniemi.   *Valtioneuvoston selvitys- ja tutkimustoiminnan julkaisusarja* 2024:10 (2024).  [http://urn.fi/URN:ISBN:978-952-383-277-0](http://urn.fi/URN:ISBN:978-952-383-277-0)
  
 * **Alueellisen kuljetustuen toimivuus, vaikuttavuus ja kehitystarpeet**
  with Henna Busk, Sinikukka Pyykkönen, Antti Norkio, Nella Koivula .   *Työ- ja elinkeinoministeriön julkaisuja* 2024:20 (2024).  [http://urn.fi/URN:ISBN:978-952-327-945-2](http://urn.fi/URN:ISBN:978-952-327-945-2) 
