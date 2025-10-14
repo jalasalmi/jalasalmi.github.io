@@ -31,34 +31,34 @@ Arvioin työmarkkinoiden alueellisen ja ammatillisen kohtaannon kehitystä Suome
 
 ### Policy Work and Publications in Finnish
 
-* **Opintotuen tulorajojen vuosien 2022 ja 2023 korotusten arviointi **
+* **Opintotuen tulorajojen vuosien 2022 ja 2023 korotusten arviointi**
 with Olavi Kylliäinen and Juha Tuomala   *Datahuone- raportti* 4/2025 (2025).
 [https://urn.fi/URN:NBN:fi-fe2025100199082](https://urn.fi/URN:NBN:fi-fe2025100199082)
 
-* **Tilapäistä suojelua saavien työssäkäynti **
+* **Tilapäistä suojelua saavien työssäkäynti**
 with Meeri Seppä and Heikki Korpela  *Datahuone- raportti* 3/2025 (2025).
 [https://urn.fi/URN:NBN:fi-fe2025092998777](https://urn.fi/URN:NBN:fi-fe2025092998777)
 
-* **Opiskeluperusteisen maahanmuuton viimeaikainen kehitys **
+* **Opiskeluperusteisen maahanmuuton viimeaikainen kehitys**
 with Max Toikka, Heikki Korpela and Meeri Seppä  *Datahuone- raportti* 2/2025 (2025).
 [https://urn.fi/URN:NBN:fi-fe2025091796639](https://urn.fi/URN:NBN:fi-fe2025091796639)
 
 
-* **Maahanmuuttajien merkitys yritys- ja elinkeinotoiminnassa **
+* **Maahanmuuttajien merkitys yritys- ja elinkeinotoiminnassa**
 with Henna Busk *PTT-raportteja* 296 (2025) Pellervon taloustutkimus.
 [https://www.ptt.fi/julkaisut/maahanmuuttajien-merkitys-yritys-ja-elinkeinotoiminnassa/](https://www.ptt.fi/julkaisut/maahanmuuttajien-merkitys-yritys-ja-elinkeinotoiminnassa/)
 
 
-* **Suomessa syntyneet ulkomaalaistaustaiset nuoret koulutuksessa ja työmarkkinoilla **
+* **Suomessa syntyneet ulkomaalaistaustaiset nuoret koulutuksessa ja työmarkkinoilla**
 with Henna Busk *Työ- ja elinkeinoministeriön julkaisuja* 2025:13 (2025).
 [https://urn.fi/URN:ISBN:978-952-327-535-5](https://urn.fi/URN:ISBN:978-952-327-535-5)
 
 
-* **Itäisen ja pohjoisen Suomen aluetaloudellinen kehitys **
+* **Itäisen ja pohjoisen Suomen aluetaloudellinen kehitys**
 with Max Toikka ja Annakaisa Ritala   *Datahuone- raportti* 4/2024 (2024).
 [https://urn.fi/URN:NBN:fi-fe20241216103339](https://urn.fi/URN:NBN:fi-fe20241216103339)
 
-* **Työperusteisesti Suomessa oleskelevien työttömyysjaksojen pituudet **
+* **Työperusteisesti Suomessa oleskelevien työttömyysjaksojen pituudet**
 *Datahuone- raportti* 2/2024(2024) Valtion taloudellinen tutkimuslaitos.[https://urn.fi/URN:NBN:fi-fe2024082967170](https://urn.fi/URN:NBN:fi-fe2024082967170)
 
 * **Lomautusjärjestelmän toimivuus ja mahdolliset kehityskohteet**
